@@ -1,0 +1,950 @@
+[
+    {
+        "iso2": "AE",
+        "currency": "AED",
+        "currencyName": "United Arab Emirates Dirham",
+        "symbol": "د.إ"
+    },
+    {
+        "iso2": "AF",
+        "currency": "AFN",
+        "currencyName": "Afghan Afghani",
+        "symbol": "؋"
+    },
+    {
+        "iso2": "AL",
+        "currency": "ALL",
+        "currencyName": "Albanian Lek",
+        "symbol": "Lek"
+    },
+    {
+        "iso2": "AM",
+        "currency": "AMD",
+        "currencyName": "Armenian Dram",
+        "symbol": "դր."
+    },
+    {
+        "iso2": "AN",
+        "currency": "ANG",
+        "currencyName": "Netherlands Antillean Guilder",
+        "symbol": "ƒ"
+    },
+    {
+        "iso2": "AO",
+        "currency": "AOA",
+        "currencyName": "Angolan Kwanza",
+        "symbol": "Kz"
+    },
+    {
+        "iso2": "AR",
+        "currency": "ARS",
+        "currencyName": "Argentine Peso",
+        "symbol": "$"
+    },
+    {
+        "iso2": "AU",
+        "currency": "AUD",
+        "currencyName": "Australian Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "AW",
+        "currency": "AWG",
+        "currencyName": "Aruban Florin",
+        "symbol": "ƒ"
+    },
+    {
+        "iso2": "AZ",
+        "currency": "AZN",
+        "currencyName": "Azerbaijani Manat",
+        "symbol": "₼"
+    },
+    {
+        "iso2": "BA",
+        "currency": "BAM",
+        "currencyName": "Bosnia-Herzegovina Convertible Mark",
+        "symbol": "KM"
+    },
+    {
+        "iso2": "BB",
+        "currency": "BBD",
+        "currencyName": "Barbadian Dollar",
+        "symbol": "Bds$"
+    },
+    {
+        "iso2": "BD",
+        "currency": "BDT",
+        "currencyName": "Bangladeshi Taka",
+        "symbol": "৳"
+    },
+    {
+        "iso2": "BG",
+        "currency": "BGN",
+        "currencyName": "Bulgarian Lev",
+        "symbol": "лв"
+    },
+    {
+        "iso2": "BH",
+        "currency": "BHD",
+        "currencyName": "Bahraini Dinar",
+        "symbol": ".د.ب"
+    },
+    {
+        "iso2": "BI",
+        "currency": "BIF",
+        "currencyName": "Burundian Franc",
+        "symbol": "FBu"
+    },
+    {
+        "iso2": "BM",
+        "currency": "BMD",
+        "currencyName": "Bermudan Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "BN",
+        "currency": "BND",
+        "currencyName": "Brunei Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "BO",
+        "currency": "BOB",
+        "currencyName": "Bolivian Boliviano",
+        "symbol": "$b"
+    },
+    {
+        "iso2": "BR",
+        "currency": "BRL",
+        "currencyName": "Brazilian Real",
+        "symbol": "R$"
+    },
+    {
+        "iso2": "BS",
+        "currency": "BSD",
+        "currencyName": "Bahamian Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "BT",
+        "currency": "BTN",
+        "currencyName": "Bhutanese Ngultrum",
+        "symbol": "Nu"
+    },
+    {
+        "iso2": "BW",
+        "currency": "BWP",
+        "currencyName": "Botswanan Pula",
+        "symbol": "P"
+    },
+    {
+        "iso2": "BY",
+        "currency": "BYN",
+        "currencyName": "Belarusian Ruble",
+        "symbol": "Br"
+    },
+    {
+        "iso2": "BZ",
+        "currency": "BZD",
+        "currencyName": "Belize Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "CA",
+        "currency": "CAD",
+        "currencyName": "Canadian Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "CD",
+        "currency": "CDF",
+        "currencyName": "Congolese Franc",
+        "symbol": "Fr"
+    },
+    {
+        "iso2": "AF",
+        "currency": "CHF",
+        "currencyName": "Swiss Franc",
+        "symbol": "kr"
+    },
+    {
+        "iso2": "CL",
+        "currency": "CLP",
+        "currencyName": "Chilean Peso",
+        "symbol": "$"
+    },
+    {
+        "iso2": "CN",
+        "currency": "CNY",
+        "currencyName": "Chinese Yuan",
+        "symbol": "¥"
+    },
+    {
+        "iso2": "CO",
+        "currency": "COP",
+        "currencyName": "Colombian Peso",
+        "symbol": "$"
+    },
+    {
+        "iso2": "CR",
+        "currency": "CRC",
+        "currencyName": "Costa Rican Colón",
+        "symbol": "₡"
+    },
+    {
+        "iso2": "CU",
+        "currency": "CUP",
+        "currencyName": "Cuban Peso",
+        "symbol": "₱"
+    },
+    {
+        "iso2": "CV",
+        "currency": "CVE",
+        "currencyName": "Cape Verdean Escudo",
+        "symbol": "Esc"
+    },
+    {
+        "iso2": "CZ",
+        "currency": "CZK",
+        "currencyName": "Czech Republic Koruna",
+        "symbol": "Kč"
+    },
+    {
+        "iso2": "DJ",
+        "currency": "DJF",
+        "currencyName": "Djiboutian Franc",
+        "symbol": "Fr"
+    },
+    {
+        "iso2": "DK",
+        "currency": "DKK",
+        "currencyName": "Danish Krone",
+        "symbol": "kr"
+    },
+    {
+        "iso2": "DO",
+        "currency": "DOP",
+        "currencyName": "Dominican Peso",
+        "symbol": "RD$"
+    },
+    {
+        "iso2": "AF",
+        "currency": "DZD",
+        "currencyName": "Algerian Dinar",
+        "symbol": "د.ج"
+    },
+    {
+        "iso2": "EG",
+        "currency": "EGP",
+        "currencyName": "Egyptian Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "ER",
+        "currency": "ERN",
+        "currencyName": "Eritrean Nakfa",
+        "symbol": "ناكفا"
+    },
+    {
+        "iso2": "ET",
+        "currency": "ETB",
+        "currencyName": "Ethiopian Birr",
+        "symbol": "Br"
+    },
+    {
+        "iso2": "EU",
+        "currency": "EUR",
+        "currencyName": "Euro",
+        "symbol": "€"
+    },
+    {
+        "iso2": "FJ",
+        "currency": "FJD",
+        "currencyName": "Fijian Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "FK",
+        "currency": "FKP",
+        "currencyName": "Falkland Islands Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "GB",
+        "currency": "GBP",
+        "currencyName": "British Pound Sterling",
+        "symbol": "£"
+    },
+    {
+        "iso2": "GE",
+        "currency": "GEL",
+        "currencyName": "Georgian Lari",
+        "symbol": "₾"
+    },
+    {
+        "iso2": "GG",
+        "currency": "GGP",
+        "currencyName": "Guernsey Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "GH",
+        "currency": "GHS",
+        "currencyName": "Ghanaian Cedi",
+        "symbol": "₵"
+    },
+    {
+        "iso2": "GI",
+        "currency": "GIP",
+        "currencyName": "Gibraltar Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "GM",
+        "currency": "GMD",
+        "currencyName": "Gambian Dalasi",
+        "symbol": "D"
+    },
+    {
+        "iso2": "GN",
+        "currency": "GNF",
+        "currencyName": "Guinean Franc",
+        "symbol": "Fr"
+    },
+    {
+        "iso2": "GT",
+        "currency": "GTQ",
+        "currencyName": "Guatemalan Quetzal",
+        "symbol": "Q"
+    },
+    {
+        "iso2": "GY",
+        "currency": "GYD",
+        "currencyName": "Guyanaese Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "HK",
+        "currency": "HKD",
+        "currencyName": "Hong Kong Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "HN",
+        "currency": "HNL",
+        "currencyName": "Honduran Lempira",
+        "symbol": "L"
+    },
+    {
+        "iso2": "HR",
+        "currency": "HRK",
+        "currencyName": "Croatian Kuna",
+        "symbol": "kn"
+    },
+    {
+        "iso2": "HT",
+        "currency": "HTG",
+        "currencyName": "Haitian Gourde",
+        "symbol": "G"
+    },
+    {
+        "iso2": "HU",
+        "currency": "HUF",
+        "currencyName": "Hungarian Forint",
+        "symbol": "Ft"
+    },
+    {
+        "iso2": "ID",
+        "currency": "IDR",
+        "currencyName": "Indonesian Rupiah",
+        "symbol": "Rp"
+    },
+    {
+        "iso2": "IL",
+        "currency": "ILS",
+        "currencyName": "Israeli New Sheqel",
+        "symbol": "₪"
+    },
+    {
+        "iso2": "IM",
+        "currency": "IMP",
+        "currencyName": "Manx pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "IN",
+        "currency": "INR",
+        "currencyName": "Indian Rupee",
+        "symbol": "₹"
+    },
+    {
+        "iso2": "IQ",
+        "currency": "IQD",
+        "currencyName": "Iraqi Dinar",
+        "symbol": "ع.د"
+    },
+    {
+        "iso2": "IR",
+        "currency": "IRR",
+        "currencyName": "Iranian Rial",
+        "symbol": "﷼"
+    },
+    {
+        "iso2": "IS",
+        "currency": "ISK",
+        "currencyName": "Icelandic Króna",
+        "symbol": "kr"
+    },
+    {
+        "iso2": "JE",
+        "currency": "JEP",
+        "currencyName": "Jersey Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "JM",
+        "currency": "JMD",
+        "currencyName": "Jamaican Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "JO",
+        "currency": "JOD",
+        "currencyName": "Jordanian Dinar",
+        "symbol": "د.ا"
+    },
+    {
+        "iso2": "JP",
+        "currency": "JPY",
+        "currencyName": "Japanese Yen",
+        "symbol": "¥"
+    },
+    {
+        "iso2": "KE",
+        "currency": "KES",
+        "currencyName": "Kenyan Shilling",
+        "symbol": "Sh"
+    },
+    {
+        "iso2": "KG",
+        "currency": "KGS",
+        "currencyName": "Kyrgystani Som",
+        "symbol": "лв"
+    },
+    {
+        "iso2": "KH",
+        "currency": "KHR",
+        "currencyName": "Cambodian Riel",
+        "symbol": "៛"
+    },
+    {
+        "iso2": "KM",
+        "currency": "KMF",
+        "currencyName": "Comorian Franc",
+        "symbol": "Fr"
+    },
+    {
+        "iso2": "KR",
+        "currency": "KRW",
+        "currencyName": "South Korean Won",
+        "symbol": "₩"
+    },
+    {
+        "iso2": "KW",
+        "currency": "KWD",
+        "currencyName": "Kuwaiti Dinar",
+        "symbol": "د.ك"
+    },
+    {
+        "iso2": "KY",
+        "currency": "KYD",
+        "currencyName": "Cayman Islands Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "KZ",
+        "currency": "KZT",
+        "currencyName": "Kazakhstani Tenge",
+        "symbol": "лв"
+    },
+    {
+        "iso2": "LA",
+        "currency": "LAK",
+        "currencyName": "Laotian Kip",
+        "symbol": "₭"
+    },
+    {
+        "iso2": "LB",
+        "currency": "LBP",
+        "currencyName": "Lebanese Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "LK",
+        "currency": "LKR",
+        "currencyName": "Sri Lankan Rupee",
+        "symbol": "₨"
+    },
+    {
+        "iso2": "LR",
+        "currency": "LRD",
+        "currencyName": "Liberian Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "LS",
+        "currency": "LSL",
+        "currencyName": "Lesotho Loti",
+        "symbol": "L"
+    },
+    {
+        "iso2": "LY",
+        "currency": "LYD",
+        "currencyName": "Libyan Dinar",
+        "symbol": "ل.د"
+    },
+    {
+        "iso2": "MA",
+        "currency": "MAD",
+        "currencyName": "Moroccan Dirham",
+        "symbol": "د. م."
+    },
+    {
+        "iso2": "MO",
+        "currency": "MDL",
+        "currencyName": "Moldovan Leu",
+        "symbol": "L"
+    },
+    {
+        "iso2": "AF",
+        "currency": "MGA",
+        "currencyName": "Malagasy Ariary",
+        "symbol": "Ar"
+    },
+    {
+        "iso2": "MK",
+        "currency": "MKD",
+        "currencyName": "Macedonian Denar",
+        "symbol": "ден"
+    },
+    {
+        "iso2": "MM",
+        "currency": "MMK",
+        "currencyName": "Myanma Kyat",
+        "symbol": "K"
+    },
+    {
+        "iso2": "MN",
+        "currency": "MNT",
+        "currencyName": "Mongolian Tugrik",
+        "symbol": "₮"
+    },
+    {
+        "iso2": "MO",
+        "currency": "MOP",
+        "currencyName": "Macanese Pataca",
+        "symbol": "MOP$"
+    },
+    {
+        "iso2": "MR",
+        "currency": "MRU",
+        "currencyName": "Mauritanian Ouguiya",
+        "symbol": "UM"
+    },
+    {
+        "iso2": "MU",
+        "currency": "MUR",
+        "currencyName": "Mauritian Rupee",
+        "symbol": "₨"
+    },
+    {
+        "iso2": "MV",
+        "currency": "MVR",
+        "currencyName": "Maldivian Rufiyaa",
+        "symbol": "M"
+    },
+    {
+        "iso2": "MW",
+        "currency": "MWK",
+        "currencyName": "Malawian Kwacha",
+        "symbol": "M"
+    },
+    {
+        "iso2": "MX",
+        "currency": "MXN",
+        "currencyName": "Mexican Peso",
+        "symbol": "$"
+    },
+    {
+        "iso2": "MY",
+        "currency": "MYR",
+        "currencyName": "Malaysian Ringgit",
+        "symbol": "RM"
+    },
+    {
+        "iso2": "MZ",
+        "currency": "MZN",
+        "currencyName": "Mozambican Metical",
+        "symbol": "MT"
+    },
+    {
+        "iso2": "NA",
+        "currency": "NAD",
+        "currencyName": "Namibian Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "NG",
+        "currency": "NGN",
+        "currencyName": "Nigerian Naira",
+        "symbol": "₦"
+    },
+    {
+        "iso2": "NI",
+        "currency": "NIO",
+        "currencyName": "Nicaraguan Córdoba",
+        "symbol": "C$"
+    },
+    {
+        "iso2": "NO",
+        "currency": "NOK",
+        "currencyName": "Norwegian Krone",
+        "symbol": "kr"
+    },
+    {
+        "iso2": "NP",
+        "currency": "NPR",
+        "currencyName": "Nepalese Rupee",
+        "symbol": "₨"
+    },
+    {
+        "iso2": "ND",
+        "currency": "NZD",
+        "currencyName": "New Zealand Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "OM",
+        "currency": "OMR",
+        "currencyName": "Omani Rial",
+        "symbol": "﷼"
+    },
+    {
+        "iso2": "PA",
+        "currency": "PAB",
+        "currencyName": "Panamanian Balboa",
+        "symbol": "B/."
+    },
+    {
+        "iso2": "PE",
+        "currency": "PEN",
+        "currencyName": "Peruvian Nuevo Sol",
+        "symbol": "S/."
+    },
+    {
+        "iso2": "PG",
+        "currency": "PGK",
+        "currencyName": "Papua New Guinean Kina",
+        "symbol": "P"
+    },
+    {
+        "iso2": "PH",
+        "currency": "PHP",
+        "currencyName": "Philippine Peso",
+        "symbol": "₱"
+    },
+    {
+        "iso2": "PK",
+        "currency": "PKR",
+        "currencyName": "Pakistani Rupee",
+        "symbol": "₨"
+    },
+    {
+        "iso2": "PL",
+        "currency": "PLN",
+        "currencyName": "Polish Zloty",
+        "symbol": "zł"
+    },
+    {
+        "iso2": "PY",
+        "currency": "PYG",
+        "currencyName": "Paraguayan Guarani",
+        "symbol": "Gs"
+    },
+    {
+        "iso2": "QA",
+        "currency": "QAR",
+        "currencyName": "Qatari Rial",
+        "symbol": "﷼"
+    },
+    {
+        "iso2": "RO",
+        "currency": "RON",
+        "currencyName": "Romanian Leu",
+        "symbol": "L"
+    },
+    {
+        "iso2": "RS",
+        "currency": "RSD",
+        "currencyName": "Serbian Dinar",
+        "symbol": "дин."
+    },
+    {
+        "iso2": "RU",
+        "currency": "RUB",
+        "currencyName": "Russian Ruble",
+        "symbol": "₽"
+    },
+    {
+        "iso2": "RW",
+        "currency": "RWF",
+        "currencyName": "Rwandan Franc",
+        "symbol": "Fr"
+    },
+    {
+        "iso2": "SA",
+        "currency": "SAR",
+        "currencyName": "Saudi Riyal",
+        "symbol": "ر.س"
+    },
+    {
+        "iso2": "SB",
+        "currency": "SBD",
+        "currencyName": "Solomon Islands Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "SC",
+        "currency": "SCR",
+        "currencyName": "Seychellois Rupee",
+        "symbol": "₨"
+    },
+    {
+        "iso2": "SD",
+        "currency": "SDG",
+        "currencyName": "Sudanese Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "SE",
+        "currency": "SEK",
+        "currencyName": "Swedish Krona",
+        "symbol": "kr"
+    },
+    {
+        "iso2": "SG",
+        "currency": "SGD",
+        "currencyName": "Singapore Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "SH",
+        "currency": "SHP",
+        "currencyName": "Saint Helena Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "SL",
+        "currency": "SLL",
+        "currencyName": "Sierra Leonean Leone",
+        "symbol": "S"
+    },
+    {
+        "iso2": "SO",
+        "currency": "SOS",
+        "currencyName": "Somali Shilling",
+        "symbol": "S"
+    },
+    {
+        "iso2": "SR",
+        "currency": "SRD",
+        "currencyName": "Surinamese Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "SS",
+        "currency": "SSP",
+        "currencyName": "South Sudanese Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "ST",
+        "currency": "STN",
+        "currencyName": "São Tomé and Príncipe Dobra",
+        "symbol": "ST"
+    },
+    {
+        "iso2": "SV",
+        "currency": "SVC",
+        "currencyName": "Salvadoran Colón",
+        "symbol": "SV"
+    },
+    {
+        "iso2": "SY",
+        "currency": "SYP",
+        "currencyName": "Syrian Pound",
+        "symbol": "£"
+    },
+    {
+        "iso2": "SZ",
+        "currency": "SZL",
+        "currencyName": "Swazi Lilangeni",
+        "symbol": "SZ"
+    },
+    {
+        "iso2": "TH",
+        "currency": "THB",
+        "currencyName": "Thai Baht",
+        "symbol": "฿"
+    },
+    {
+        "iso2": "TJ",
+        "currency": "TJS",
+        "currencyName": "Tajikistani Somoni",
+        "symbol": "TJ"
+    },
+    {
+        "iso2": "TM",
+        "currency": "TMT",
+        "currencyName": "Turkmenistani Manat",
+        "symbol": "m"
+    },
+    {
+        "iso2": "TN",
+        "currency": "TND",
+        "currencyName": "Tunisian Dinar",
+        "symbol": "د.ت"
+    },
+    {
+        "iso2": "TO",
+        "currency": "TOP",
+        "currencyName": "Tongan Pa'anga",
+        "symbol": "TO"
+    },
+    {
+        "iso2": "TR",
+        "currency": "TRY",
+        "currencyName": "Turkish Lira",
+        "symbol": "TR"
+    },
+    {
+        "iso2": "TT",
+        "currency": "TTD",
+        "currencyName": "Trinidad and Tobago Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "TW",
+        "currency": "TWD",
+        "currencyName": "New Taiwan Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "TZ",
+        "currency": "TZS",
+        "currencyName": "Tanzanian Shilling",
+        "symbol": "Sh"
+    },
+    {
+        "iso2": "UA",
+        "currency": "UAH",
+        "currencyName": "Ukrainian Hryvnia",
+        "symbol": "₴"
+    },
+    {
+        "iso2": "UG",
+        "currency": "UGX",
+        "currencyName": "Ugandan Shilling",
+        "symbol": "Sh"
+    },
+    {
+        "iso2": "US",
+        "currency": "USD",
+        "currencyName": "United States Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "UY",
+        "currency": "UYU",
+        "currencyName": "Uruguayan Peso",
+        "symbol": "$U"
+    },
+    {
+        "iso2": "UZ",
+        "currency": "UZS",
+        "currencyName": "Uzbekistan Som",
+        "symbol": "лв"
+    },
+    {
+        "iso2": "VE",
+        "currency": "VES",
+        "currencyName": "Venezuelan Bolívar Soberano",
+        "symbol": "Bs"
+    },
+    {
+        "iso2": "VN",
+        "currency": "VND",
+        "currencyName": "Vietnamese Dong",
+        "symbol": "₫"
+    },
+    {
+        "iso2": "VU",
+        "currency": "VUV",
+        "currencyName": "Vanuatu Vatu",
+        "symbol": "VU"
+    },
+    {
+        "iso2": "WS",
+        "currency": "WST",
+        "currencyName": "Samoan Tala",
+        "symbol": "WS"
+    },
+    {
+        "iso2": "XA",
+        "currency": "XAF",
+        "currencyName": "CFA Franc BEAC",
+        "symbol": "Fr"
+    },
+    {
+        "iso2": "XC",
+        "currency": "XCD",
+        "currencyName": "East Caribbean Dollar",
+        "symbol": "$"
+    },
+    {
+        "iso2": "XO",
+        "currency": "XOF",
+        "currencyName": "CFA Franc BCEAO",
+        "symbol": "Fr"
+    },
+    {
+        "iso2": "XP",
+        "currency": "XPF",
+        "currencyName": "CFP Franc",
+        "symbol": "Fr"
+    },
+    {
+        "iso2": "YE",
+        "currency": "YER",
+        "currencyName": "Yemeni Rial",
+        "symbol": "﷼"
+    },
+    {
+        "iso2": "ZA",
+        "currency": "ZAR",
+        "currencyName": "South African Rand",
+        "symbol": "ZA"
+    },
+    {
+        "iso2": "ZM",
+        "currency": "ZMW",
+        "currencyName": "Zambian Kwacha",
+        "symbol": "ZK"
+    },
+    {
+        "iso2": "ZW",
+        "currency": "ZWL",
+        "currencyName": "Zimbabwean Dollar",
+        "symbol": "$"
+    }
+]
